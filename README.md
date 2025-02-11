@@ -1,2 +1,3 @@
 # Coldplay-Hymn-For-The-Weekend
-Transcribe audio files using whisper
+
+This project allows you to transcribe audio files, including music, using Whisper by OpenAI
